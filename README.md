@@ -1,4 +1,4 @@
-Tools: React, tailwidnCSS, firebase, cloudinary
+Tools: React, react-router-don, Tanstack Query, tailwidnCSS, firebase, cloudinary
 
 # Getting Started with Create React App
 
