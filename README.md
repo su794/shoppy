@@ -1,4 +1,4 @@
-Tools: React, tailwidnCSS, firebase
+Tools: React, tailwidnCSS, firebase, cloudinary
 
 # Getting Started with Create React App
 
